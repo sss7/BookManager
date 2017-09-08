@@ -1,0 +1,12 @@
+target
+BookManager.iml
+.idea/dataSources
+.idea/inspectionProfiles
+.idea/libraries
+.idea/compiler.xml
+.idea/dataSources.local.xml
+.idea/dataSources.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
