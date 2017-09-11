@@ -9,7 +9,6 @@ import java.util.List;
 
 @Service
 public class BookServiceImpl implements BookService {
-
     private BookDao bookDao;
 
     public void setBookDao(BookDao bookDao) {
